@@ -1,0 +1,5 @@
+Why can you only use certain pins for analogWrite()?
+
+
+What is the range the map() function maps the value to? Why this range?
+  map from 0 to 255.
